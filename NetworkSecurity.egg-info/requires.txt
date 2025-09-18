@@ -1,9 +1,7 @@
 python-dotenv
-pandas 
+pandas
 numpy
 pymongo
 scikit-learn
 certifi
 flask
-
-# -e . # it is reffuring to the setup.py
